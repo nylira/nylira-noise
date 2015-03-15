@@ -2,7 +2,7 @@
 'use strict'
 
 var _ = require('lodash')
-var SIZE = 200
+var SIZE = 100
 
 function makeNoise(size, frequency) {
   var output = []

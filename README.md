@@ -10,7 +10,7 @@ JavaScript noise generation library.
 
     var noise = require('nylira-noise')
 
-    // generate an array of white noise
+    // generate 100 units of white noise
     var whiteNoise = noise()
 
     // etc
@@ -19,7 +19,7 @@ JavaScript noise generation library.
     var blueNoise = noise(1)
     var violetNoise = noise(2)
 
-    // generate an array 1337 units in length
+    // generate 1337 units of red noise
     var lotsOfRedNoise = noise(-2, 1337)
 
 ## License
