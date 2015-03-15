@@ -1,6 +1,6 @@
 {
   "name": "nylira-noise",
-  "version": "1.0.1",
+  "version": "0.1.2",
   "description": "Generate an array of colored noise.",
   "main": "index.js",
   "scripts": {
